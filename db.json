@@ -1,0 +1,84 @@
+{
+    "faculdade": [
+      {
+        "id": 1,
+        "nome": "André",
+        "professor": "Educação-física",
+        "bairro": "Inhaúma",
+        "mensalidade": "119"
+      },
+      {
+        "id:": 2,
+        "nome": "Julia",
+        "professor": "Biologia",
+        "bairro": "/tijuca",
+        "mensalidade": "140"
+      },
+      {
+        "id:": 3,
+        "nome": "Renata",
+        "professor": "Matemática",
+        "bairro": "Meier",
+        "mensalidade": "125"
+      },
+      {
+        "id:": 4,
+        "nome": "Marcos",
+        "professor": "Português",
+        "bairro": "Centro",
+        "mensalidade": "90"
+      }
+    ],
+    "ramo": [
+      {
+        "id:": 1,
+        "atuacao": "Fisioterapia",
+        "horario": "Comercial",
+        "prioridade": "Recuperação clínica"        
+      },
+      {
+        "id:": 2,
+        "atuacao": "Fauna e Flora",
+        "horario": "Comercial",
+        "prioridade": "Humanista"  
+      },
+      {
+        "id:": 3,
+        "atuacao": "matemática-aplicada",
+        "horario": "Comercial",
+        "prioridade": "Doutorado"  
+      },
+      {
+        "id:": 4,
+        "atuacao": "Calistenia",
+        "horario": "Semi-comercial",
+        "prioridade": "Mestrado"  
+      }
+    ],
+    "horarios": [
+      {
+        "id:": 1,
+        "abertura": "08h",
+        "fechamento": "18h",
+        "fds": "12h"  
+      },
+      {
+        "id:": 2,
+        "abertura": "08h",
+        "fechamento": "18h",
+        "fds": "12h"  
+      },
+      {
+        "id:": 3,
+        "abertura": "00h",
+        "fechamento": "00h",
+        "fds": "18h"
+      },
+      {
+        "id:": 4,
+        "abertura": "08h",
+        "fechamento": "14h",
+        "fds": "11h"  
+      }     
+    ]
+  }
